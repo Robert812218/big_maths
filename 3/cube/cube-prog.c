@@ -3,5 +3,5 @@
 
 int main(void)
 {
-	return cube(NUMBER);
+    return cube(NUMBER);
 }

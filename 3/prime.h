@@ -1,4 +1,4 @@
-int isprime(long int number)
+int isprime(long int number);
 {
 	long int j;
 	int prime = 1;
